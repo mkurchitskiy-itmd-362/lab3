@@ -186,6 +186,8 @@ img, audio, video {
 
 /* ===== BASE STYLES ===== */
 
+
+
 /*
   Major Sixth Modular Scale:
   http://www.modularscale.com/?22&px&1.667&web&text
@@ -204,6 +206,51 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+body {
+  background-color: #303030;
+  margin: -5px;
+}
+
+form {
+  background-color: #808080;
+  border-radius: 10px; 
+}
+
+h1 {
+  text-align: center;
+  margin: 5px 0; 
+  font-weight: bold;
+}
+
+p {
+  margin: 5px;
+
+}
+
+#input-email{
+  margin: 5px;
+}
+
+#input-email label {
+}
+
+#email {
+  margin-top: 5px;
+}
+
+#input-age-verification {
+  margin: 5px;
+  display: flex;
+}
+
+#age-verification {
+  margin-right: 5px;
+}
+
+#input-submit {
+  text-align: center;
+  margin: 20px 0px 10px 0px;
+}
 
 /* ===== STATE STYLES ======= */
 

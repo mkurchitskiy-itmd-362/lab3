@@ -231,5 +231,27 @@ p {
     font-size: 1em;
 }
 
+#input-email{
+    padding: .25em;
+    text-align: center;
+    font-size: 1em;
+}
+
+#input-age-verification {
+    display: flex;
+    padding: 1em;
+    text-align: center;
+    justify-content: center;
+}
+
+#age-verification {
+    margin-right: .1em;
+}
+
+#input-submit {
+    padding: 1em;
+    text-align: center;    
+}
+
 
 /* ===== STATE STYLES ======= */

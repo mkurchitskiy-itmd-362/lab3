@@ -209,6 +209,7 @@ label {
 body {
   background-color: #303030;
   margin: -5px;
+  font-family: "Helvetica Neue", "Roboto", "Segoe UI", Arial, sans-serif;
 }
 
 form {
@@ -231,8 +232,6 @@ p {
   margin: 5px;
 }
 
-#input-email label {
-}
 
 #email {
   margin-top: 5px;

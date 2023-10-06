@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz@6..72&display=swap');
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -206,15 +208,23 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 #content {
-    font-family: "Helvetica Neue", "Roboto", "Segoe UI", Arial, sans-serif;
+    font-family: 'Newsreader', "Helvetica Neue", "Roboto", serif;
     background: #808080;
 }
+
 
 h1 {
     padding: .5em;
     text-align: center;
     font-size: 1.75em;
+    font-weight: 500;
     background-color: #606060;
+}
+
+p {
+    padding: .75em;
+    text-align: center;
+    font-size: 1em;
 }
 
 

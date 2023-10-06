@@ -186,12 +186,11 @@ img, audio, video {
 
 /* ===== BASE STYLES ===== */
 
-
-
 /*
   Major Sixth Modular Scale:
   http://www.modularscale.com/?22&px&1.667&web&text
 */
+
 
 html {
   font-size: 1.375em; /* 22px */
@@ -206,51 +205,6 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
-body {
-  background-color: #303030;
-  margin: -5px;
-  font-family: "Helvetica Neue", "Roboto", "Segoe UI", Arial, sans-serif;
-}
 
-form {
-  background-color: #808080;
-  border-radius: 10px; 
-}
-
-h1 {
-  text-align: center;
-  margin: 5px 0; 
-  font-weight: bold;
-}
-
-p {
-  margin: 10px 10px;
-
-}
-
-#input-email{
-  margin: 10px;
-  display: relative
-}
-
-#email {
-  text-align: center;
-  width: auto;
-}
-
-#input-age-verification {
-  margin: 10px;
-  display: flex;
-}
-
-#age-verification {
-  margin-right: 5px;
-}
-
-#input-submit {
-  text-align: center;
-  margin: 20px 0px 10px 0px;
-}
 
 /* ===== STATE STYLES ======= */
-

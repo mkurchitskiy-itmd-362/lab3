@@ -205,6 +205,17 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+#content {
+    font-family: "Helvetica Neue", "Roboto", "Segoe UI", Arial, sans-serif;
+    background: #808080;
+}
+
+h1 {
+    padding: .5em;
+    text-align: center;
+    font-size: 1.75em;
+    background-color: #606060;
+}
 
 
 /* ===== STATE STYLES ======= */

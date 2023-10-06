@@ -207,9 +207,13 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
-#content {
+body {
     font-family: 'Newsreader', "Helvetica Neue", "Roboto", serif;
-    background: #808080;
+    background-color: #B8B8B8;
+}
+
+#content {
+    background-color: #808080;
 }
 
 
